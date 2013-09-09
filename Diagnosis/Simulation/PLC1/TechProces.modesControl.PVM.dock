@@ -1,0 +1,15 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=TechProces 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=150 Type=0 Scope=0 Force=0 Index=3 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                                autoMode                                     BOOL    0 "                                                               *"    0    1    1    2    1    0         
+                                 difTime                                    UDINT    0 "                                                               *"    0    7    1    1    1    0         
+                             sensSQAlarm                              USINT[0..5]    0 "                                                               *"    0    5    6    0    0    1         
+                          sensSQAlarm[0]                                    USINT    0 "                                                               *"    1    5    1   10    0    0         
+                          sensSQAlarm[1]                                    USINT    0 "                                                               *"    1    5    1   10    0    0         
+                          sensSQAlarm[2]                                    USINT    0 "                                                               *"    1    5    1   10    0    0         
+                          sensSQAlarm[3]                                    USINT    0 "                                                               *"    1    5    1   10    0    0         
+                          sensSQAlarm[4]                                    USINT    0 "                                                               *"    1    5    1   10    0    0         
+                          sensSQAlarm[5]                                    USINT    0 "                                                               *"    1    5    1   10    0    0         
+                                 curTime                                     TIME    0 "                                                               *"    0   12    1    1    1    0         
+                                 sensSB4                                    USINT    0 "                                                               *"    0    5    1   10    0    0         
+                             p_CountTime                                     TIME    0 "                                                               *"    0   12    1    1    1    0         

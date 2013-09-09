@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="3.0.90.25 SP07"?>
+<TextGroup xmlns="http://br-automation.co.at/AS/VC/Project" Name="bundleTitles">
+  <Property Name="Description" Value="Texts for instant messages"/>
+  <Property Name="Index" Value="10"/>
+  <TextSnippets>
+    <TextSnippet ClassId="0x00002001" Name="WaterTemp">
+      <Property Name="Datapoint" Value="None"/>
+      <Property Name="Description" Value=""/>
+      <Property Name="SimulationValue" Value="0"/>
+      <Property Name="StyleClass" Value="Source[relative:StyleGroup].StyleClass[Default]"/>
+    </TextSnippet>
+  </TextSnippets>
+  <TextLayer LanguageId="en">
+    <Text ID="87428" Value="B&amp;R Template Instant Messages"/>
+    <Text ID="95778" Value="The scales ready to work"/>
+    <Text ID="96053" Value="The devices emergency stop:"/>
+    <Text ID="96054" Value="The mode control:"/>
+    <Text ID="96058" Value="The local control to ban"/>
+    <Text ID="96059" Value="The local control to resolve"/>
+    <Text ID="96062" Value="The furnace ready to load tires"/>
+    <Text ID="96064" Value="Tire weight:"/>
+    <Text ID="96065" Value="The residual value of tires (kg)"/>
+    <Text ID="96066" Value="Real capacity (kg/h)"/>
+    <Text ID="96067" Value="Nominal capacity (kg/h)"/>
+    <Text ID="96068" Value="Residue"/>
+    <Text ID="96069" Value="Loading"/>
+    <Text ID="96077" Value="The maximum capacity of the line (kg/h)"/>
+    <Text ID="96078" Value="Conveyer №8. Transporter speed (%)"/>
+    <Text ID="96079" Value="Conveyer №8. Min tire weight (kg)"/>
+    <Text ID="96080" Value="Conveyer №8. Max tire weight (kg)"/>
+    <Text ID="96082" Value="The settings and test weight"/>
+    <Text ID="96083" Value="A tire weight on the position rollgang №7 (kg)"/>
+    <Text ID="96084" Value="The minimum capacity of the line (kg/h)"/>
+    <Text ID="96372" Value="The screen input technological parameters"/>
+    <Text ID="96696" Value="Auto"/>
+    <Text ID="96699" Value="Manual"/>
+    <Text ID="97035" Value="The screen map of archive data"/>
+    <Text ID="97036" Value="Discrete:"/>
+    <Text ID="97037" Value="The tires counter"/>
+    <Text ID="97038" Value="The tire weight more 80 kg"/>
+    <Text ID="97039" Value="The tire weight more 20 kg"/>
+    <Text ID="97040" Value="The tire weight more 40 kg"/>
+    <Text ID="97041" Value="The tire weight more 60 kg"/>
+    <Text ID="97933" Value="Measurement"/>
+    <Text ID="97934" Value="Palletizer"/>
+    <Text ID="97935" Value="Up"/>
+    <Text ID="97936" Value="Cam"/>
+    <Text ID="97937" Value="Down"/>
+    <Text ID="97952" Value="Bunker"/>
+    <Text ID="97953" Value="Open"/>
+    <Text ID="97954" Value="Close"/>
+    <Text ID="97958" Value="The tire weight"/>
+    <Text ID="97959" Value="The funance load position"/>
+    <Text ID="97960" Value="Control is enabled"/>
+    <Text ID="97961" Value="Ready to start"/>
+    <Text ID="97962" Value="The local control allowed"/>
+    <Text ID="97963" Value="Automatic mode"/>
+    <Text ID="97964" Value="Manual mode"/>
+    <Text ID="98478" Value="Palletizer"/>
+    <Text ID="98942" Value="Bunker flap"/>
+    <Text ID="98943" Value="Desk"/>
+    <Text ID="98948" Value="Conveyer №8"/>
+    <Text ID="98949" Value="Load"/>
+    <Text ID="98950" Value="Speed"/>
+    <Text ID="98951" Value="Hz"/>
+    <Text ID="98952" Value="A"/>
+    <Text ID="98962" Value="Diagnostic equipment"/>
+    <Text ID="98964" Value="Don`t ready to start"/>
+    <Text ID="98965" Value="Air pressure normal"/>
+    <Text ID="99678" Value="Availability of frequency converters"/>
+    <Text ID="99679" Value="Controller discrete inputs. Availability to start"/>
+    <Text ID="99680" Value="Cooling control"/>
+    <Text ID="99681" Value="Rolgang №1"/>
+    <Text ID="99682" Value="Rolgang №2"/>
+    <Text ID="99683" Value="Power brakes Conveyer 8"/>
+    <Text ID="99684" Value="Power 220V"/>
+    <Text ID="99685" Value="Power input"/>
+    <Text ID="99686" Value="Overvoltage protection"/>
+    <Text ID="99687" Value="Power supply of electromotor 9-13"/>
+    <Text ID="99688" Value="Power supply of electromotor 1-7"/>
+    <Text ID="99689" Value="Rolgang №3"/>
+    <Text ID="99690" Value="Rolgang №13"/>
+    <Text ID="99691" Value="Rolgang №12"/>
+    <Text ID="99692" Value="Rolgang №11"/>
+    <Text ID="99693" Value="Rolgang №10"/>
+    <Text ID="99694" Value="Conveyer №9"/>
+    <Text ID="99696" Value="Rolgang №7"/>
+    <Text ID="99697" Value="Rolgang №6"/>
+    <Text ID="99698" Value="Rolgang №5"/>
+    <Text ID="99699" Value="Rolgang №4"/>
+    <Text ID="99749" Value="Safety relays"/>
+    <Text ID="99750" Value="Coolers cabinet"/>
+    <Text ID="99958" Value="Set process time delays"/>
+    <Text ID="100517" Value="Setpoint"/>
+    <Text ID="100518" Value="Event"/>
+    <Text ID="100519" Value="Current"/>
+    <Text ID="100520" Value="Alarm prestart Auto mode"/>
+    <Text ID="100521" Value="Spreading tires by rollgang"/>
+    <Text ID="100522" Value="Moving tires by section rollgang"/>
+    <Text ID="100523" Value="Stacking tires on the conveyor N8"/>
+    <Text ID="100524" Value="Rotation furnace"/>
+    <Text ID="100525" Value="Position occupied by the load conveyor N9"/>
+    <Text ID="100526" Value="Stabilization tire on the weigh"/>
+    <Text ID="100527" Value="Palletizer tire down"/>
+    <Text ID="100528" Value="Palletizer tire up"/>
+  </TextLayer>
+  <TextLayer LanguageId="ru">
+    <Text ID="87428" Value="Шаблон мгновенных сообщений"/>
+    <Text ID="95778" Value="Весы готовы к работе"/>
+    <Text ID="96053" Value="Устройства аварийного отключения:"/>
+    <Text ID="96054" Value="Режим управления:"/>
+    <Text ID="96058" Value="Местное управление запретить"/>
+    <Text ID="96059" Value="Местное управление разрешить"/>
+    <Text ID="96062" Value="Готовность печи к загрузке шин"/>
+    <Text ID="96064" Value="Вес шины (кг)"/>
+    <Text ID="96065" Value="Остаточное значение шин (кг)"/>
+    <Text ID="96066" Value="Действительная производительность (кг/ч)"/>
+    <Text ID="96067" Value="Номинальная производительность (кг/ч)"/>
+    <Text ID="96068" Value="Остаток"/>
+    <Text ID="96069" Value="Загрузка"/>
+    <Text ID="96077" Value="Максимальная производительность линии (кг/ч)"/>
+    <Text ID="96078" Value="Конвейер №8. Скорость транспортера (%)"/>
+    <Text ID="96079" Value="Конвейер №8. Минимальный вес шины (кг)"/>
+    <Text ID="96080" Value="Конвейер №8. Максимальный вес шины (кг)"/>
+    <Text ID="96082" Value="Параметры настройки и тестирования весов"/>
+    <Text ID="96083" Value="Вес шины на позиции рольганга №7 (кг)"/>
+    <Text ID="96084" Value="Минимальная производительность линии (кг/ч)"/>
+    <Text ID="96372" Value="Экран ввода технологических параметров"/>
+    <Text ID="96696" Value="Автомат"/>
+    <Text ID="96699" Value="Ручной"/>
+    <Text ID="97035" Value="Экран отображения архивных данных"/>
+    <Text ID="97036" Value="Дискрета:"/>
+    <Text ID="97037" Value="Счетчик шин"/>
+    <Text ID="97038" Value="Вес шин более 80 кг"/>
+    <Text ID="97039" Value="Вес шин более 20 кг"/>
+    <Text ID="97040" Value="Вес шин более 40 кг"/>
+    <Text ID="97041" Value="Вес шин более 60 кг"/>
+    <Text ID="97933" Value="Измерение"/>
+    <Text ID="97934" Value="Укладчик"/>
+    <Text ID="97935" Value="Вверху"/>
+    <Text ID="97936" Value="Копир"/>
+    <Text ID="97937" Value="Внизу"/>
+    <Text ID="97952" Value="Бункер"/>
+    <Text ID="97953" Value="Открыт"/>
+    <Text ID="97954" Value="Закрыт"/>
+    <Text ID="97958" Value="Вес шин"/>
+    <Text ID="97959" Value="Печь позиция загрузки"/>
+    <Text ID="97960" Value="Управление включено"/>
+    <Text ID="97961" Value="ЕСТЬ Готовности к запуску"/>
+    <Text ID="97962" Value="Местное управление разрешено"/>
+    <Text ID="97963" Value="Автоматический режим"/>
+    <Text ID="97964" Value="Ручной режим"/>
+    <Text ID="98478" Value="Укладчик"/>
+    <Text ID="98942" Value="Заслонка бункера"/>
+    <Text ID="98943" Value="Пульт"/>
+    <Text ID="98948" Value="Конвейер №8"/>
+    <Text ID="98949" Value="Нагрузка"/>
+    <Text ID="98950" Value="Скорость"/>
+    <Text ID="98951" Value="Гц"/>
+    <Text ID="98952" Value="А"/>
+    <Text ID="98962" Value="Диагностика оборудования"/>
+    <Text ID="98964" Value="НЕТ Готовности к запуску"/>
+    <Text ID="98965" Value="Давление воздуха норма"/>
+    <Text ID="99678" Value="Готовность частотных преобразователей"/>
+    <Text ID="99679" Value="Дискретные входы контроллера контроль готовности к запуску"/>
+    <Text ID="99680" Value="Контроль охлаждения электрошкафа"/>
+    <Text ID="99681" Value="Рольганг №1"/>
+    <Text ID="99682" Value="Рольганг №2"/>
+    <Text ID="99683" Value="Питание тормоза Конвейер №8"/>
+    <Text ID="99684" Value="Питание 220В"/>
+    <Text ID="99685" Value="Питание входов"/>
+    <Text ID="99686" Value="Защита от перенапряжений"/>
+    <Text ID="99687" Value="Питание приводов 9-13"/>
+    <Text ID="99688" Value="Питание приводов 1-7"/>
+    <Text ID="99689" Value="Рольганг №3"/>
+    <Text ID="99690" Value="Рольганг №13"/>
+    <Text ID="99691" Value="Рольганг №12"/>
+    <Text ID="99692" Value="Рольганг №11"/>
+    <Text ID="99693" Value="Рольганг №10"/>
+    <Text ID="99694" Value="Конвейер №9"/>
+    <Text ID="99696" Value="Рольганг №7"/>
+    <Text ID="99697" Value="Рольганг №6"/>
+    <Text ID="99698" Value="Рольганг №5"/>
+    <Text ID="99699" Value="Рольганг №4"/>
+    <Text ID="99749" Value="Реле безопасности"/>
+    <Text ID="99750" Value="Вентиляторы электрошкафа"/>
+    <Text ID="99958" Value="Установка технологических задержек времени"/>
+    <Text ID="100517" Value="Уставка"/>
+    <Text ID="100518" Value="Событие"/>
+    <Text ID="100519" Value="Текущее"/>
+    <Text ID="100520" Value="Предпусковая сигнализация Авт. режим"/>
+    <Text ID="100521" Value="Растягивание шин на рольгангах"/>
+    <Text ID="100522" Value="Перемещение шин по секции рольганга"/>
+    <Text ID="100523" Value="Укладка шины на конвейер №8"/>
+    <Text ID="100524" Value="Оборот печи"/>
+    <Text ID="100525" Value="Позиция загрузки конвейера №9 занята"/>
+    <Text ID="100526" Value="Стабилизация шины на весах"/>
+    <Text ID="100527" Value="Укладчик шин вниз"/>
+    <Text ID="100528" Value="Укладчик шин вверх"/>
+  </TextLayer>
+  <IndexMap>
+    <Index ID="87428" Value="0"/>
+    <Index ID="95778" Value="1"/>
+    <Index ID="96053" Value="2"/>
+    <Index ID="96054" Value="3"/>
+    <Index ID="96058" Value="5"/>
+    <Index ID="96059" Value="4"/>
+    <Index ID="96062" Value="6"/>
+    <Index ID="96064" Value="10"/>
+    <Index ID="96065" Value="9"/>
+    <Index ID="96066" Value="8"/>
+    <Index ID="96067" Value="7"/>
+    <Index ID="96068" Value="11"/>
+    <Index ID="96069" Value="12"/>
+    <Index ID="96077" Value="16"/>
+    <Index ID="96078" Value="15"/>
+    <Index ID="96079" Value="14"/>
+    <Index ID="96080" Value="13"/>
+    <Index ID="96082" Value="19"/>
+    <Index ID="96083" Value="18"/>
+    <Index ID="96084" Value="17"/>
+    <Index ID="96372" Value="20"/>
+    <Index ID="96696" Value="22"/>
+    <Index ID="96699" Value="21"/>
+    <Index ID="97035" Value="23"/>
+    <Index ID="97036" Value="24"/>
+    <Index ID="97037" Value="25"/>
+    <Index ID="97038" Value="26"/>
+    <Index ID="97039" Value="29"/>
+    <Index ID="97040" Value="28"/>
+    <Index ID="97041" Value="27"/>
+    <Index ID="97933" Value="30"/>
+    <Index ID="97934" Value="31"/>
+    <Index ID="97935" Value="32"/>
+    <Index ID="97936" Value="34"/>
+    <Index ID="97937" Value="33"/>
+    <Index ID="97952" Value="35"/>
+    <Index ID="97953" Value="36"/>
+    <Index ID="97954" Value="37"/>
+    <Index ID="97958" Value="38"/>
+    <Index ID="97959" Value="39"/>
+    <Index ID="97960" Value="41"/>
+    <Index ID="97961" Value="40"/>
+    <Index ID="97962" Value="42"/>
+    <Index ID="97963" Value="43"/>
+    <Index ID="97964" Value="44"/>
+    <Index ID="98478" Value="45"/>
+    <Index ID="98942" Value="46"/>
+    <Index ID="98943" Value="47"/>
+    <Index ID="98948" Value="65"/>
+    <Index ID="98949" Value="49"/>
+    <Index ID="98950" Value="48"/>
+    <Index ID="98951" Value="50"/>
+    <Index ID="98952" Value="51"/>
+    <Index ID="98962" Value="52"/>
+    <Index ID="98964" Value="53"/>
+    <Index ID="98965" Value="54"/>
+    <Index ID="99678" Value="55"/>
+    <Index ID="99679" Value="56"/>
+    <Index ID="99680" Value="57"/>
+    <Index ID="99681" Value="58"/>
+    <Index ID="99682" Value="59"/>
+    <Index ID="99683" Value="77"/>
+    <Index ID="99684" Value="76"/>
+    <Index ID="99685" Value="75"/>
+    <Index ID="99686" Value="74"/>
+    <Index ID="99687" Value="73"/>
+    <Index ID="99688" Value="72"/>
+    <Index ID="99689" Value="60"/>
+    <Index ID="99690" Value="70"/>
+    <Index ID="99691" Value="69"/>
+    <Index ID="99692" Value="68"/>
+    <Index ID="99693" Value="67"/>
+    <Index ID="99694" Value="66"/>
+    <Index ID="99696" Value="64"/>
+    <Index ID="99697" Value="63"/>
+    <Index ID="99698" Value="62"/>
+    <Index ID="99699" Value="61"/>
+    <Index ID="99749" Value="78"/>
+    <Index ID="99750" Value="79"/>
+    <Index ID="99958" Value="80"/>
+    <Index ID="100517" Value="81"/>
+    <Index ID="100518" Value="82"/>
+    <Index ID="100519" Value="83"/>
+    <Index ID="100520" Value="84"/>
+    <Index ID="100521" Value="85"/>
+    <Index ID="100522" Value="86"/>
+    <Index ID="100523" Value="87"/>
+    <Index ID="100524" Value="88"/>
+    <Index ID="100525" Value="89"/>
+    <Index ID="100526" Value="90"/>
+    <Index ID="100527" Value="91"/>
+    <Index ID="100528" Value="92"/>
+  </IndexMap>
+</TextGroup>

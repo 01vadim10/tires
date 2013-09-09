@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="3.0.90.25 SP07"?>
+<TextGroup xmlns="http://br-automation.co.at/AS/VC/Project" Name="Buttons_PageTexts">
+  <Property Name="Description" Value="Texts for elements on pages"/>
+  <Property Name="Index" Value="14"/>
+  <TextSnippets/>
+  <TextLayer LanguageId="en">
+    <Text ID="89135" Value="Contrast"/>
+    <Text ID="89136" Value="Touch Calibration"/>
+    <Text ID="89137" Value="Setup"/>
+    <Text ID="89138" Value="Main"/>
+    <Text ID="89139" Value="Service"/>
+    <Text ID="89142" Value="Brightness"/>
+    <Text ID="89291" Value="History"/>
+    <Text ID="89302" Value="Select Language"/>
+    <Text ID="89304" Value="Touch Configuration"/>
+    <Text ID="89523" Value="Network Settings"/>
+    <Text ID="89526" Value="IP Address:"/>
+    <Text ID="89527" Value="Node Number:"/>
+    <Text ID="90122" Value="HH:MM:SS"/>
+    <Text ID="90123" Value="yyyy/mm/dd"/>
+    <Text ID="90125" Value="Time and Date"/>
+    <Text ID="91312" Value="Alarm"/>
+    <Text ID="91313" Value="Trend"/>
+    <Text ID="91515" Value="Tech. params"/>
+    <Text ID="92539" Value="Room temp."/>
+    <Text ID="92542" Value="Cpu temp."/>
+    <Text ID="92543" Value="Auto refresh"/>
+    <Text ID="92545" Value="Cursor control"/>
+    <Text ID="92546" Value="Cursor 1"/>
+    <Text ID="92547" Value="Cursor 2"/>
+    <Text ID="92548" Value="View all"/>
+    <Text ID="92549" Value="Time [s]"/>
+    <Text ID="92553" Value=""/>
+    <Text ID="92557" Value=""/>
+    <Text ID="92558" Value=""/>
+    <Text ID="92559" Value=""/>
+    <Text ID="92560" Value=""/>
+    <Text ID="93067" Value=""/>
+    <Text ID="95076" Value="Display Settings"/>
+    <Text ID="97044" Value="Arch. Data"/>
+    <Text ID="98970" Value="Diagn. equipm."/>
+    <Text ID="98971" Value="Technology"/>
+    <Text ID="101095" Value="Reset"/>
+  </TextLayer>
+  <TextLayer LanguageId="ru">
+    <Text ID="89135" Value="Контраст"/>
+    <Text ID="89136" Value="Калибровка сенс. панели"/>
+    <Text ID="89137" Value="Установки"/>
+    <Text ID="89138" Value="Главный экран"/>
+    <Text ID="89139" Value="Обслуживание"/>
+    <Text ID="89142" Value="Яркость"/>
+    <Text ID="89291" Value="История"/>
+    <Text ID="89302" Value="Выбрать язык"/>
+    <Text ID="89304" Value="Конф. сенс. панели"/>
+    <Text ID="89523" Value="Настройки сети"/>
+    <Text ID="89526" Value="IP Адрес:"/>
+    <Text ID="89527" Value="Knotennummer:"/>
+    <Text ID="90122" Value="ЧЧ:МM:СС"/>
+    <Text ID="90123" Value="гггг/мм/дд"/>
+    <Text ID="90125" Value="Время и дата"/>
+    <Text ID="91312" Value="Авар. предупр."/>
+    <Text ID="91313" Value="Тренды"/>
+    <Text ID="91515" Value="Тех. параметры"/>
+    <Text ID="92539" Value="Комнатн. темп."/>
+    <Text ID="92542" Value="CPU-Темпер."/>
+    <Text ID="92543" Value="Автообновл."/>
+    <Text ID="92545" Value="Cursorsteuerung"/>
+    <Text ID="92546" Value="Cursor 1"/>
+    <Text ID="92547" Value="Cursor 2"/>
+    <Text ID="92548" Value="Просмотреть все"/>
+    <Text ID="92549" Value="Время [с]"/>
+    <Text ID="92553" Value=""/>
+    <Text ID="92557" Value=""/>
+    <Text ID="92558" Value=""/>
+    <Text ID="92559" Value=""/>
+    <Text ID="92560" Value=""/>
+    <Text ID="93067" Value=""/>
+    <Text ID="95076" Value="Настройки дисплея"/>
+    <Text ID="97044" Value="Арх. данные"/>
+    <Text ID="98970" Value="Диагн. оборуд."/>
+    <Text ID="98971" Value="Технология"/>
+    <Text ID="101095" Value="Сброс"/>
+  </TextLayer>
+  <IndexMap>
+    <Index ID="89135" Value="6010"/>
+    <Index ID="89136" Value="6009"/>
+    <Index ID="89137" Value="2"/>
+    <Index ID="89138" Value="1"/>
+    <Index ID="89139" Value="0"/>
+    <Index ID="89142" Value="6011"/>
+    <Index ID="89291" Value="6"/>
+    <Index ID="89302" Value="6000"/>
+    <Index ID="89304" Value="6001"/>
+    <Index ID="89523" Value="6002"/>
+    <Index ID="89526" Value="6003"/>
+    <Index ID="89527" Value="6004"/>
+    <Index ID="90122" Value="6005"/>
+    <Index ID="90123" Value="6006"/>
+    <Index ID="90125" Value="6007"/>
+    <Index ID="91312" Value="5"/>
+    <Index ID="91313" Value="3"/>
+    <Index ID="91515" Value="7"/>
+    <Index ID="92539" Value="1200"/>
+    <Index ID="92542" Value="1201"/>
+    <Index ID="92543" Value="1202"/>
+    <Index ID="92545" Value="1203"/>
+    <Index ID="92546" Value="1204"/>
+    <Index ID="92547" Value="1205"/>
+    <Index ID="92548" Value="1206"/>
+    <Index ID="92549" Value="1207"/>
+    <Index ID="92553" Value="1208"/>
+    <Index ID="92557" Value="1209"/>
+    <Index ID="92558" Value="1210"/>
+    <Index ID="92559" Value="1211"/>
+    <Index ID="92560" Value="1212"/>
+    <Index ID="93067" Value="12"/>
+    <Index ID="95076" Value="6008"/>
+    <Index ID="97044" Value="8"/>
+    <Index ID="98970" Value="10"/>
+    <Index ID="98971" Value="9"/>
+    <Index ID="101095" Value="11"/>
+  </IndexMap>
+</TextGroup>

@@ -1,0 +1,24 @@
+(********************************************************************
+ * COPYRIGHT --  
+ ********************************************************************
+ * Program: spreading
+ * File: spreading.var
+ * Author: VZylevich
+ * Created: July 16, 2013
+ ********************************************************************
+ * Local variables of program spreading
+ ********************************************************************)
+VAR
+	rolgangCycle : USINT := 0;
+	n : USINT := 1; (*spreadingPlotDone : USINT := 0; (*Участок растаскивания*) (*elapsedTime : TIME := T#0S;*)
+	tp2 : TIME := 2; (*Время движения шины по конвейеру*)
+	tp : TIME := T#03S; (*Время, в течение которого шина надвигается частично на следующий рольганг*)
+END_VAR
+(*startRolg : USINT := 0; (*Контроль поступления шин на рольганг 1 - сигнал датчика SQ1-SQ22, включение рольганга*)
+VAR
+	TON_spreading_repeat : TON := (0);
+	TON_spreading : TON := (0);
+	spreadingStop : USINT;
+	spreadingStart : USINT := 0;
+	rolgMoving : ARRAY[0..6] OF USINT := [7(0)];
+END_VAR

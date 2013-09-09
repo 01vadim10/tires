@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="3.0.90.8"?>
+<Bitmap xmlns="http://br-automation.co.at/AS/VC/Project" Name="gauge_NeedleRed100x11_1">
+  <Property Name="Description" Value="needle for gauge control"/>
+  <Property Name="File" Value="gauge_NeedleRed100x11_1.png"/>
+  <Property Name="FillAreaColor" Value="0"/>
+  <Property Name="FillAreaColor32" Value="0"/>
+  <Property Name="FillAreaDatapoint" Value="1"/>
+  <Property Name="FillAreaDatapoint[0]" Value="None"/>
+  <Property Name="FillAreaLeft" Value="0"/>
+  <Property Name="FillAreaTop" Value="0"/>
+  <Property Name="FillAreas" Value="0"/>
+  <Property Name="Index" Value="431"/>
+  <Property Name="TargetFormat" Value="Png32Bit"/>
+</Bitmap>

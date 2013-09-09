@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=3.0.90.25 SP07?>
+<Package xmlns="http://br-automation.co.at/AS/Package">
+  <Objects>
+    <Object Type="File" Description="Global data types">Global.typ</Object>
+    <Object Type="File" Description="Global variables">Global.var</Object>
+    <Object Type="Package" Description="Global libraries">Libraries</Object>
+    <Object Type="DataObject" Language="Vc" Description="640x480 (VGA)">Visu</Object>
+    <Object Type="Program" Language="ANSIC" Description="Part control of visual project">visual</Object>
+    <Object Type="Program" Language="ANSIC" Description="the description line work tire burning">TechProcess</Object>
+    <Object Type="Program" Language="ANSIC" Description="A new program">Sleep</Object>
+    <Object Type="Program" Language="ANSIC" Description="A new program">manualControl</Object>
+    <Object Type="Program" Language="ANSIC" Description="A new program">autoControl</Object>
+    <Object Type="Program" Language="ANSIC" Description="A new program">weightControl</Object>
+    <Object Type="Program" Language="ANSIC" Description="A new program">dosingTires</Object>
+    <Object Type="Program" Language="ANSIC" Description="A new program">bunkerLoad14</Object>
+    <Object Type="Program" Language="ANSIC" Description="A new program">furnaceLoading</Object>
+    <Object Type="Program" Language="ANSIC" Description="A new program">spreading</Object>
+    <Object Type="Program" Language="ANSIC" Description="rs_485">Conv_mitsubishi</Object>
+    <Object Type="Package">GmcIpConfig</Object>
+    <Object Type="Package">GmcIpUserConfig</Object>
+    <Object Type="Program" Language="ANSIC">modbusRTU</Object>
+    <Object Type="Program" Language="ANSIC" Description="A new program">exampleCplusplus</Object>
+  </Objects>
+</Package>

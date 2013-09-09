@@ -1,0 +1,95 @@
+(********************************************************************
+ * COPYRIGHT --  
+ ********************************************************************
+ * Program: visual
+ * File: visual.var
+ * Author: vzylevich
+ * Created: June 25, 2013
+ ********************************************************************
+ * Local variables of program visual
+ ********************************************************************)
+(*ssLControl : USINT := 0;
+	k : USINT := 0;
+	i : USINT := 0;
+	sensLocalControl : ARRAY[0..13] OF USINT := [14(0)];
+	sensSQ : ARRAY[0..12] OF USINT := [13(3)];
+	tireMoving : ARRAY[0..12] OF USINT := [13(1)];
+	modeControl : USINT := 0;
+	var : USINT := 0;
+	tireWeightRolg7 : USINT := 0;
+	lineCapacityMin : USINT := 0;
+	lineCapacityMax : USINT := 0;
+	transporterSpeed : USINT := 0;
+	tireWeightMin : USINT := 0;
+	tireWeightMax : USINT := 0;
+	furnReady : USINT := 0;
+	tireWeightRolg6 : USINT := 0;
+	tireWeightConv8 : USINT := 0;
+	resValueTires : USINT := 0;
+	realCapacity : USINT := 0;
+	nomCapacity : USINT := 0;
+	localControl : USINT := 0;
+	scalesMSG : USINT := 0;
+	elmotorM23 : USINT := 0;
+	elmotorM22 : USINT := 0;
+	elmotorM21 : USINT := 0;
+	elmotorM20 : USINT := 0;
+	elmotorM19 : USINT := 0;
+	elmotorM18 : USINT := 0;
+	elmotorM17 : USINT := 0;
+	elmotorM16 : USINT := 0;
+	elmotorM15 : USINT := 0;
+	elmotorM14 : USINT := 0;
+	elmotorM13 : USINT := 0;
+	elmotorM12 : USINT := 0;
+	elmotorM11 : USINT := 0;
+	sensSB4 : USINT := 0;
+	sensHL12 : USINT := 0;
+	sensY2 : USINT := 0;
+	sensY1 : USINT := 0;
+	sensSQ70 : USINT := 0;
+	sensSQ68 : USINT := 0;
+	sensSQ67 : USINT := 0;
+	sensSQ66 : USINT := 0;
+	sensSQ65 : USINT := 0;
+	sensSQ64 : USINT := 0;
+	sensSQ62 : USINT := 0;
+	sensSQ60 : USINT := 0;
+	sensSQ58 : USINT := 0;
+	sensSQ56 : USINT := 0;
+	sensSQ54 : USINT := 0;
+	sensSQ51 : USINT := 0;
+	sensSQ49 : USINT := 0;
+	sensSQ48 : USINT := 0;
+	sensSQ46 : USINT := 0;
+	sensSQ44 : USINT := 0;
+	sensSQ43 : USINT := 0;
+	sensSQ42 : USINT := 0;
+	sensSQ40 : USINT := 0;
+	sensSQ38 : USINT := 0;
+	sensSQ36 : USINT := 0;
+	sensSQ34 : USINT := 0;
+	sensSQ32 : USINT := 0;
+	sensSQ30 : USINT := 0;
+	sensSQ28 : USINT := 0;
+	sensSQ26 : USINT := 0;
+	sensSQ24 : USINT := 0;
+	sensSQ22 : USINT := 0;
+	sensSQ16 : USINT := 0;
+	sensSQ15 : USINT := 0;
+	sensSQ14 : USINT := 0;
+	sensSQ13 : USINT := 0;
+	sensSQ12 : USINT := 0;
+	sensSQ11 : USINT := 0;*)
+VAR
+	i : USINT := 0;
+	tireMoving : ARRAY[0..13] OF USINT := [14(1)]; (*Массив для отображения перемещения покрышки по линии.*)
+	sensSQSize : USINT := 0;
+	readyStart : USINT := 1;
+	control : USINT := 1;
+	localControl : USINT := 1; (*Местное управление*)
+	indexReset : USINT := 0; (*Кнопка "Сброс". Сбрасывает показания даты и веса.*)
+	startTime : STRING[25];
+	stopTime : STRING[25] := '';
+	preStartSignal : USINT := 0; (*Предпусковая сигнализация Авт. режим*)
+END_VAR

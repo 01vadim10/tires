@@ -1,0 +1,30 @@
+(********************************************************************
+ * COPYRIGHT --  
+ ********************************************************************
+ * Program: weightControl
+ * File: weightControl.var
+ * Author: VZylevich
+ * Created: July 15, 2013
+ ********************************************************************
+ * Local variables of program weightControl
+ ********************************************************************)
+VAR
+	kgSec : USINT := 0; (*Производительность печи*)
+	period : USINT := 0;
+	rotation : USINT := 0;
+	loadingRollg7 : USINT := 0; (*Вес шины на позиции загрузки(рольганг 7)*)
+	weight : USINT := 0;
+	weightMeasure : USINT := 0;
+	TON_atten : TON := (0); (*Время необходимое для успокоения весов перед взвешинванием*)
+	attenuation : USINT := 0; (*Затухание весов*)
+	Qrot : UDINT := 0;
+	kgRotation : REAL := 0.0; (*Кол-во кг сжигаемых шин за 1 оборот*)
+END_VAR
+VAR CONSTANT
+	hour : UDINT := 3600000; (*1 час в мс*)
+END_VAR
+VAR
+	time : TIME := T#0S;
+	tRot : TIME := T#0S; (*Время оборота печи*)
+	(*TON_weightLoading : TON := (0);*)
+END_VAR

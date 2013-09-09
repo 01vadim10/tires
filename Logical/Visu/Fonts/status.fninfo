@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="3.0.90.25 SP07"?>
+<LogicalFont xmlns="http://br-automation.co.at/AS/VC/Project" Name="Status">
+  <Property Name="Description" Value="font for status texts"/>
+  <Property Name="Index" Value="5"/>
+  <FontMapping LanguageId="en">
+    <Property Name="Antialiasing" Value="Default"/>
+    <Property Name="Bold" Value="False"/>
+    <Property Name="Family" Value="Arial"/>
+    <Property Name="Italic" Value="False"/>
+    <Property Name="Size" Value="12"/>
+  </FontMapping>
+  <FontMapping LanguageId="ru">
+    <Property Name="Antialiasing" Value="Default"/>
+    <Property Name="Bold" Value="False"/>
+    <Property Name="Family" Value="Arial"/>
+    <Property Name="Italic" Value="False"/>
+    <Property Name="Size" Value="12"/>
+  </FontMapping>
+</LogicalFont>

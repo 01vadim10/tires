@@ -1,0 +1,18 @@
+(********************************************************************
+ * COPYRIGHT --  
+ ********************************************************************
+ * Program: furnaceLoading
+ * File: furnaceLoading.var
+ * Author: VZylevich
+ * Created: August 01, 2013
+ ********************************************************************
+ * Local variables of program furnaceLoading
+ ********************************************************************)
+
+VAR
+
+END_VAR
+
+VAR CONSTANT
+
+END_VAR

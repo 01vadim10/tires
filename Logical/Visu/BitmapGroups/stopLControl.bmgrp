@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="3.0.90.25 SP07"?>
+<BitmapGroup xmlns="http://br-automation.co.at/AS/VC/Project" Name="stopLControl">
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="10"/>
+  <Property Name="Translate" Value="False"/>
+  <BitmapLayer LanguageId="neutral">
+    <BitmapRef ID="996" Value="Source[local].Bitmap[stopLControl_yellow]"/>
+    <BitmapRef ID="997" Value="Source[local].Bitmap[stopLControl_red]"/>
+    <BitmapRef ID="998" Value="Source[local].Bitmap[stopLControl_green]"/>
+    <BitmapRef ID="999" Value="Source[local].Bitmap[stopLControl_grey]"/>
+  </BitmapLayer>
+  <IndexMap>
+    <Index ID="996" Value="3"/>
+    <Index ID="997" Value="2"/>
+    <Index ID="998" Value="1"/>
+    <Index ID="999" Value="0"/>
+  </IndexMap>
+</BitmapGroup>

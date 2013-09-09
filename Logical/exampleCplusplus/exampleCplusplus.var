@@ -1,0 +1,18 @@
+(********************************************************************
+ * COPYRIGHT --  
+ ********************************************************************
+ * Program: exampleCplusplus
+ * File: exampleCplusplus.var
+ * Author: VZylevich
+ * Created: August 12, 2013
+ ********************************************************************
+ * Local variables of program exampleCplusplus
+ ********************************************************************)
+
+VAR
+
+END_VAR
+
+VAR CONSTANT
+
+END_VAR

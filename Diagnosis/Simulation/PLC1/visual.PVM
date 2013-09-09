@@ -1,0 +1,22 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=visual 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=200 Type=100 Scope=60 Force=60 Index=4 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                               startTime                               STRING[25]    0 "                                                              ''"    0    9   26    1    1    0         
+                              readyStart                                    USINT    0 "                                                               1"    0    5    1   10    1    0         
+                              indexReset                                    USINT    0 "                                                               0"    0    5    1   10    1    0         
+                                stopTime                               STRING[25]    0 "                                       'Thu Jan 1 00:00:00 1970'"    0    9   26    1    1    0         
+                                    DT_1                            DATE_AND_TIME    0 "                                          DT#1970-01-01-00:00:00"    0   11    1    1    1    0         
+                                  sensSQ                             USINT[0..13]    0 "                                                               *"    0    5   14    0    0    1         
+                               sensSQ[0]                                    USINT    0 "                                                               0"    1    5    1   10    0    0         
+                               sensSQ[1]                                    USINT    0 "                                                               0"    1    5    1   10    0    0         
+                               sensSQ[2]                                    USINT    0 "                                                               0"    1    5    1   10    0    0         
+                               sensSQ[3]                                    USINT    0 "                                                               0"    1    5    1   10    0    0         
+                               sensSQ[4]                                    USINT    0 "                                                               0"    1    5    1   10    0    0         
+                               sensSQ[5]                                    USINT    0 "                                                               0"    1    5    1   10    0    0         
+                               sensSQ[6]                                    USINT    0 "                                                               0"    1    5    1   10    0    0         
+                               sensSQ[7]                                    USINT    0 "                                                               0"    1    5    1   10    0    0         
+                               sensSQ[8]                                    USINT    0 "                                                               0"    1    5    1   10    0    0         
+                               sensSQ[9]                                    USINT    0 "                                                               0"    1    5    1   10    0    0         
+                              sensSQ[10]                                    USINT    0 "                                                               0"    1    5    1   10    0    0         
+                              sensSQ[11]                                    USINT    0 "                                                               0"    1    5    1   10    0    0         
+                              sensSQ[12]                                    USINT    0 "                                                               0"    1    5    1   10    0    0         

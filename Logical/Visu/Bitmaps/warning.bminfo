@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="3.0.90.18"?>
+<Bitmap xmlns="http://br-automation.co.at/AS/VC/Project" Name="warning">
+  <Property Name="Description" Value="warning bitmap"/>
+  <Property Name="File" Value="warning.png"/>
+  <Property Name="FillAreaColor" Value="0"/>
+  <Property Name="FillAreaColor32" Value="0"/>
+  <Property Name="FillAreaDatapoint" Value="0"/>
+  <Property Name="FillAreaLeft" Value="0"/>
+  <Property Name="FillAreaTop" Value="0"/>
+  <Property Name="FillAreas" Value="0"/>
+  <Property Name="Index" Value="70"/>
+  <Property Name="TargetFormat" Value="Png32Bit"/>
+</Bitmap>

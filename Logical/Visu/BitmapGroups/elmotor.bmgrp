@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="3.0.90.25 SP07"?>
+<BitmapGroup xmlns="http://br-automation.co.at/AS/VC/Project" Name="elmotor">
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="2"/>
+  <Property Name="Translate" Value="False"/>
+  <BitmapLayer LanguageId="neutral">
+    <BitmapRef ID="981" Value="Source[local].Bitmap[elmotor_yellow_1]"/>
+    <BitmapRef ID="982" Value="Source[local].Bitmap[elmotor_red_3]"/>
+    <BitmapRef ID="983" Value="Source[local].Bitmap[elmotor_green_2]"/>
+    <BitmapRef ID="984" Value="Source[local].Bitmap[elmotor_grey_0]"/>
+  </BitmapLayer>
+  <IndexMap>
+    <Index ID="981" Value="3"/>
+    <Index ID="982" Value="2"/>
+    <Index ID="983" Value="1"/>
+    <Index ID="984" Value="0"/>
+  </IndexMap>
+</BitmapGroup>

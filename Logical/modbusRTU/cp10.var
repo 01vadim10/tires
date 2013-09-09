@@ -1,0 +1,13 @@
+(*Структуры параметров аналоговых входных величин для уставки*)
+VAR
+	sim : BOOL := FALSE;
+	rs485_alarm : BOOL := FALSE;
+	rs485 : ARRAY[0..22] OF aiS_typ := [23(0)];
+	rs485f : REAL := 0.0;
+	rs485f_St : USINT := 0;
+	rs485cos : INT := 0;
+	rs485cosa : INT := 0;
+	rs485cosb : INT := 0;
+	rs485cosc : INT := 0;
+	rs485cos_St : USINT := 0;
+END_VAR

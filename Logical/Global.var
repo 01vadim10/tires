@@ -1,0 +1,64 @@
+(********************************************************************
+ * COPYRIGHT --  
+ ********************************************************************
+ * File: Global.var
+ * Author: vzylevich
+ * Created: June 24, 2013
+ ********************************************************************
+ * Global variables of project Tires_Krichev
+ ********************************************************************)
+VAR
+	b : UINT := 0; (*Отладка*)
+	a : UINT := 0; (*Отладка*)
+	maxTireWeight : USINT := 0; (*Максимальный вес шины*)
+	minTireWeight : USINT := 0; (*Минимальный вес шины*)
+	pulseSignal : USINT := 0; (*Индикатор запуска пульсирующего сигнала технологического светофора*)
+	sensSB4Light : USINT := 0; (*Лампа на кнопке SB4*)
+	mod : USINT := 0;
+	TON_count : TON := (0);
+	TON0 : TON := (0);
+	TON_01 : TON := (0);
+	count : USINT := 0; (*Счетчик секунд пульсирующего сигнала (30 сек)*)
+	var : USINT := 0; (*Переменная для отображения заголовков рольганга*)
+	elmotorM : ARRAY[0..12] OF USINT := [13(0)]; (*Массив для электродвигателей*)
+	sensRemoteControl : ARRAY[0..13] OF USINT := [14(1)]; (*Массив для датчиков дистанционного управления*)
+	sensLocalControl : ARRAY[0..13] OF USINT := [14(0)]; (*Массив для датчиков местного управления (пуск).*)
+	sensSQAlarm : ARRAY[0..6] OF USINT := [5(0)]; (*Датчики аварийных предупреждений*)
+	sensSQ : ARRAY[0..14] OF USINT := [13(0)]; (*Массив для датчиков положения покрышки на рольгангах и конвейерах.*)
+	modeControl : USINT := 0; (*Режим управления*)
+	tireWeightRolg7 : USINT := 0; (*Вес шины на рольганге 7*)
+	lineCapacityMin : UINT := 0; (*Минимальная производительность линии*)
+	lineCapacityMax : UINT := 0; (*Максимальная производительность линии*)
+	transporterSpeed : USINT := 0; (*Скорость транспортера*)
+	tireWeightMin : USINT := 0; (*Минимальный вес шины, загружаемой на конвейер 8*)
+	tireWeightMax : USINT := 0; (*Максимальный вес шины, загружаемой на конвейер 8*)
+	furnReady : USINT := 0; (*Готовность печи*)
+	tireWeightRolg6 : USINT := 0; (*Вес шины на рольганге 6*)
+	tireWeightConv8 : USINT := 0; (*Вес шины на конвейере 8*)
+	resValueTires : USINT := 0; (*Остаточное значение шин*)
+	realCapacity : USINT := 0; (*Действительное значение производительности*)
+	nomCapacity : UINT := 0; (*Номинальное значние производительности*)
+	scalesMSG : USINT := 0; (*Сообщение "Весы готовы"*)
+	sensSB4 : USINT := 0; (*Датчик автоматического режима управления*)
+	sensHL12 : USINT := 0; (*Датчик ручного режима управления*)
+	sensY2 : USINT := 0;
+	sensY1 : USINT := 0;
+END_VAR
+(*Датчики*)
+VAR
+	sensSQ70 : USINT := 0;
+	sensSQ68 : USINT := 0;
+	sensSQ67 : USINT := 0;
+	sensSQ66 : USINT := 0;
+	sensSQ65 : USINT := 0;
+	sensSQ64 : USINT := 0;
+	sensSQ62 : USINT := 0;
+	sensSQ51 : USINT := 0;
+	sensSQ49 : USINT := 0;
+	sensSQ48 : USINT := 0;
+	sensSQ46 : USINT := 0;
+	sensSQ44 : USINT := 0;
+	sensSQ43 : USINT := 0;
+	sensSQ42 : USINT := 0;
+	sensSQ24 : USINT := 0;
+END_VAR

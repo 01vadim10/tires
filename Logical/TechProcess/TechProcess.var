@@ -1,0 +1,21 @@
+(********************************************************************
+ * COPYRIGHT --  
+ ********************************************************************
+ * Program: TechProcess
+ * File: TechProcess.var
+ * Author: VZylevich
+ * Created: July 02, 2013
+ ********************************************************************
+ * Local variables of program TechProcess
+ ********************************************************************)
+VAR
+	checkStop : BOOL := FALSE;
+	sensAlarm : USINT := 0; (*Датчик предупреждения*)
+	rControl : USINT := 0;
+	ssModeControl : USINT := 0;
+	autoMode : BOOL := FALSE;
+	manMode : BOOL := FALSE;
+	timeStruct : TIMEStructure := (0);
+	foo : UINT := 0; (*Отладка*)
+	i : USINT := 0;
+END_VAR

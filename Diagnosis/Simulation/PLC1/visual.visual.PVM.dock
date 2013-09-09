@@ -1,0 +1,22 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=visual 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=150 Type=0 Scope=0 Force=0 Index=4 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                                sensSQ22                                    USINT    0 "                                                               *"    0    5    1   10    1    0         
+                                sensSQ24                                    USINT    0 "                                                               *"    0    5    1   10    1    0         
+                                sensSQ26                                    USINT    0 "                                                               *"    0    5    1   10    1    0         
+                                sensSQ28                                    USINT    0 "                                                               *"    0    5    1   10    1    0         
+                                    DT_1                            DATE_AND_TIME    0 "                                          DT#1970-01-01-00:00:00"    0   11    1    1    1    0         
+                              tireMoving                             USINT[0..13]    0 "                                                               *"    0    5   14    0    1    1         
+                           tireMoving[0]                                    USINT    0 "                                                               1"    1    5    1   10    1    0         
+                           tireMoving[1]                                    USINT    0 "                                                               1"    1    5    1   10    1    0         
+                           tireMoving[2]                                    USINT    0 "                                                               1"    1    5    1   10    1    0         
+                           tireMoving[3]                                    USINT    0 "                                                               1"    1    5    1   10    1    0         
+                           tireMoving[4]                                    USINT    0 "                                                               1"    1    5    1   10    1    0         
+                           tireMoving[5]                                    USINT    0 "                                                               1"    1    5    1   10    1    0         
+                           tireMoving[6]                                    USINT    0 "                                                               1"    1    5    1   10    1    0         
+                           tireMoving[7]                                    USINT    0 "                                                               1"    1    5    1   10    1    0         
+                           tireMoving[8]                                    USINT    0 "                                                               1"    1    5    1   10    1    0         
+                           tireMoving[9]                                    USINT    0 "                                                               1"    1    5    1   10    1    0         
+                          tireMoving[10]                                    USINT    0 "                                                               1"    1    5    1   10    1    0         
+                          tireMoving[11]                                    USINT    0 "                                                               1"    1    5    1   10    1    0         
+                          tireMoving[12]                                    USINT    0 "                                                               1"    1    5    1   10    1    0         

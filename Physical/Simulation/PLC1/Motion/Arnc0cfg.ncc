@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=3.0.90.25 SP07?>
+<NcConfiguration Version="1.28.1" NcSwId="arnc0">
+  <Group ID="ARNC0CFG_typ" Description="">
+    <Parameter ID="sampling_rate" Value="4000" />
+    <Parameter ID="cnt_nettrc_rec_drive" Value="1500" />
+    <Parameter ID="bufsize_sys_trace" Value="16#00005000" />
+    <Parameter ID="enable_mp_log" Value="Yes" />
+    <Parameter ID="tc_nc_man_task" Value="Cyclic #1" />
+    <Parameter ID="bg_load" Value="1" />
+    <Parameter ID="glob_pv_as_ncobject" Value="Yes" />
+  </Group>
+</NcConfiguration>
